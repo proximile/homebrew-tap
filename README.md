@@ -1,10 +1,11 @@
-# Homebrew tap for axel
+# Homebrew tap for maxelotl
 
-A lightweight command line download accelerator with support for very long URLs
-(presigned cloud-storage links, OAuth query strings).
+A drop-in [axel](https://github.com/axel-download-accelerator/axel) fork that
+handles very long URLs (presigned cloud-storage links, OAuth query strings).
+Installs `maxelotl` with an `axel` alias.
 
 ## Install
 
 ```sh
-brew install proximile/tap/axel
+brew install proximile/tap/maxelotl
 ```
